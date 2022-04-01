@@ -39,3 +39,10 @@ A repository for google android developer learning portals
 - Other Apps on codelabs : https://codelabs.developers.google.com/?cat=android&product=android
 
 ## Youtube courses : 
+
+## Books : 
+1) Kotlin books : 
+      - https://kotlinlang.org/docs/books.html
+      - https://book4you.org/s/kotlin?
+      - https://goalkicker.com/AndroidBook/
+      - https://goalkicker.com/KotlinBook/
