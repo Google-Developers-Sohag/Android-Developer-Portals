@@ -41,8 +41,13 @@ A repository for google android developer learning portals
 ## Youtube courses : 
 
 ## Books : 
-Kotlin and Android books : 
-      - https://kotlinlang.org/docs/books.html
-      - https://book4you.org/s/kotlin?
-      - https://goalkicker.com/AndroidBook/
-      - https://goalkicker.com/KotlinBook/
+
+Kotlin :
+- https://kotlinlang.org/docs/books.html
+- https://book4you.org/s/kotlin?
+- https://goalkicker.com/KotlinBook/
+- https://book4you.org/book/5269261/f69d93?dsource=recommend
+
+Android books : 
+- https://goalkicker.com/AndroidBook/
+- https://book4you.org/book/13979806/05426b
